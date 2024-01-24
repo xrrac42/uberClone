@@ -17,8 +17,8 @@ O Uber Clone App é uma aplicação móvel que replica a experiência do aplicat
 
 Certifique-se de ter o Node.js instalado em sua máquina. Em seguida, execute o seguinte comando para instalar as dependências do projeto:
 
-```bash
-npm install```
+bash
+npm install
 
 ### 2. Configurar chave Google API
 Acesse o site de developers e cadastre sua chave aqui 
