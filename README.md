@@ -1,8 +1,9 @@
 # Uber Clone App
+
 ![image](https://github.com/xrrac42/uberClone/assets/65977793/8ce6ccd3-7608-42d9-aef8-93329b574941)
 ![image](https://github.com/xrrac42/uberClone/assets/65977793/29f6f487-1c62-4ab8-94dd-efbb431bf45f)
 
-O Uber Clone App é uma aplicação móvel que reproduz a experiência do aplicativo Uber. Ele oferece funcionalidades básicas, como solicitação de corridas, cálculo de tempo de viagem e preço, além de uma interface de usuário amigável.
+O Uber Clone App é uma aplicação móvel que reproduz a experiência do aplicativo Uber. Este repositório está em desenvolvimento ativo, e a seção "Eats" do aplicativo está sendo implementada. As imagens apresentadas atualmente são parte do estágio inicial do aplicativo.
 
 ## Funcionalidades Principais
 
